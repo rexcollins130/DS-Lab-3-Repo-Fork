@@ -9,3 +9,5 @@
                         "ms-python.vscode-python-envs"
                       ]
 }
+python -m venv RexCollins_env
+source RexCollins_env/bin/activate
